@@ -1,6 +1,6 @@
 ## Redis Data API Documentation
 
-### Base Startup Sequence: [Initialzer Script]([https://github.com/user/repo/blob/branch/other_file.md](/blob/main/init_redis_data.sh))
+### Base Startup Sequence: [Initialzer Script](http://github.com/Austin-TheTrueShinobi/Redis-Docs/blob/main/init_redis_data.sh)
 
 ```
 redis-server
