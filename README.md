@@ -16,6 +16,8 @@ HSET user1 up 0
 HSET user1 down 0
 HSET user1 ButtonA 0
 HSET user1 ButtonB 0
+HSET user1 ButtonC 0
+HSET user1 ButtonD 0
 HSET user1 StatAtt 0
 HSET user1 StatDef 0
 HSET user1 StatMoveDistance 10
@@ -26,6 +28,8 @@ HSET user2 up 0
 HSET user2 down 0
 HSET user2 ButtonA 0
 HSET user2 ButtonB 0
+HSET user1 ButtonC 0
+HSET user1 ButtonD 0
 HSET user2 StatAtt 0
 HSET user2 StatDef 0
 HSET user2 StatMoveDistance 10
